@@ -488,7 +488,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h4 className="font-medium text-white">Address</h4>
-                      <p>123 Club Street, City</p>
+                      <p>SOIT RGPV Univesity, Bhopal</p>
                     </div>
                   </div>
 
@@ -508,7 +508,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h4 className="font-medium text-white">Email</h4>
-                      <p>PersonaClub@Gmail.Com</p>
+                      <p>personasoit@gmail.com</p>
                     </div>
                   </div>
                 </div>
@@ -590,13 +590,13 @@ export default function Home() {
             </h3>
             <ul className="space-y-2">
               <li className="flex items-center gap-2 text-gray-400">
-                <span>📍</span> 123 Club Street, City
+                <span>📍</span> SOIT RGPV Univesity, Bhopal
               </li>
               <li className="flex items-center gap-2 text-gray-400">
                 <span>📞</span> +1 234 567 890
               </li>
               <li className="flex items-center gap-2 text-gray-400">
-                <span>📧</span> PersonaClub@Gmail.Com
+                <span>📧</span> personasoit@gmail.com
               </li>
             </ul>
           </div>

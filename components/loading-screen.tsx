@@ -72,13 +72,6 @@ export default function LoadingScreen() {
             }}
             className="absolute inset-0"
           >
-            <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/personalogo.jpg-GdsYkYNMf4zntjjLwNSjCeX2jMSltt.jpeg"
-              alt="Persona Logo"
-              width={160}
-              height={160}
-              className="rounded-full"
-            />
           </motion.div>
         </div>
 
@@ -90,7 +83,7 @@ export default function LoadingScreen() {
           The Personality Grooming Club
         </motion.h1>
 
-        <div className="w-64 h-2 bg-gray-800 rounded-full overflow-hidden mt-6">
+        <div className="w-100 h-2 bg-gray-800 rounded-full overflow-hidden mt-6">
           <motion.div
             className="h-full bg-gradient-to-r from-indigo-600 to-purple-600"
             initial={{ width: "0%" }}
